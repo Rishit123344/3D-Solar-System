@@ -1,1 +1,1 @@
-# 3D-Solar-System
+# PRO-C147-Student-Activity
